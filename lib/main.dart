@@ -21,8 +21,10 @@ class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
 }
-
+List _isHovering = [false, false, false, false];
 class _HomePageState extends State<HomePage> {
+
+
   @override
   Widget build(BuildContext context) {
     var screenSize = MediaQuery.of(context).size;
@@ -42,10 +44,19 @@ class _HomePageState extends State<HomePage> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       InkWell(
+                        onHover: (value) {
+                          setState(() {
+                            _isHovering[0] = value;
+                          });
+                        },
                         onTap: () {},
                         child: Text(
                           'Discover',
-                          style: TextStyle(color: Colors.black),
+                          style: TextStyle(
+                            color: _isHovering[0]
+                                ? Colors.blue.shade200
+                                : Colors.white,
+                          ),
                         ),
                       ),
                       SizedBox(width: screenSize.width / 20),
