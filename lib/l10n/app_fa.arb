@@ -1,0 +1,143 @@
+{
+  "there_is_no_item_lbl": "موردی وجود ندارد.",
+  "error_lbl": "خطا !",
+  "done_successfully_lbl": "عملیات با موفقیت انجام شد.",
+  "try_again_lbl": "تلاش مجدد",
+  "are_you_sure_to_log_out_lbl": "آیا برای خروج از حساب کاربری اطمینان دارید؟",
+  "exit_lbl": "خروج",
+  "exit_app_lbl": "خروج از برنامه",
+  "error_in_downloading_file_lbl": "خطا در دانلود فایل",
+  "there_is_no_file_lbl": "فایل موجود نمی باشد",
+  "access_lbl": "دسترسی",
+  "please_allow_app_to_access_the_files_lbl": "لطفا مجوز دسترسی به فایل ها به برنامه داده شود",
+  "go_to_setting_lbl": "برو به تنظیمات",
+
+  "support_lbl": "پشتیبانی",
+  "register_reception_lbl": "ثبت پذیرش نصب",
+  "finance_and_credits_lbl": "مالی و اعتبارات",
+  "orders_history_lbl": "تاریخچه سفارشات",
+  "order_registration_lbl": "ثبت سفارش",
+  "price_list_lbl": "لیست قیمت",
+  "stores_audit_lbl": "ممیزی فروشگاه ها",
+  "product_information_lbl": "اطلاعات محصول",
+  "news_lbl": "اخبار",
+
+  "customer_code_lbl": "کد مشتری",
+  "mobile_number_lbl": "شماره همراه",
+  "enter_the_verification_code_lbl": "کد تأیید را وارد نمائید",
+  "continue_lbl": "ادامه",
+  "prepared_in_the_software_unit_of_entekhab_industrial_group_lbl": "تهیه شده در واحد نرم افزار گروه صنعتی انتخاب",
+  "version_lbl": "ورژن",
+
+  "change_profile_image_lbl": "تغییر عکس پروفایل",
+  "edit_image_lbl": "ویرایش عکس",
+
+
+  "show_list_lbl": "نمایش لیست",
+  "download_list_lbl": "دانلود لیست",
+  "more_lbl": "بیشتر",
+
+  "notifications_lbl": "اعلانات",
+  "notification_list_lbl": "لیست اعلانات",
+  "notification_archive_lbl": "آرشیو اعلانات",
+
+  "about_us_lbl": "درباره ما",
+  "faq_lbl": "سوالات متداول",
+  "faq_list_with_answers_lbl": "لیست سوالات متداول به همراه پاسخ",
+  "log_out_lbl": "خروج از حساب کاربری",
+
+  "profile_lbl": "حساب کاربری",
+  "personal_information_lbl": "اطلاعات شخصی",
+  "name_lbl": "نام",
+  "code_lbl": "کد",
+  "mobile_lbl": "موبایل",
+  "ranking_lbl": "رتبه بندی",
+  "companies_lbl": "شرکت ها",
+  "brands_lbl": "برندها",
+
+  "education_lbl": "آموزش",
+  "promotions_lbl": "پروموشن ها",
+  "survey_lbl": "نظرسنجی",
+
+  "register_new_request_lbl": "ثبت درخواست جدید",
+  "follow_up_registered_items_lbl": "پیگیری موارد ثبت شده",
+  "request_type_lbl": "نوع درخواست",
+  "product_brand_lbl": "برند محصول",
+  "unit_lbl": "واحد",
+  "register_lbl": "ثبت",
+  "subject_lbl": "موضوع",
+  "status_lbl": "وضعیت",
+
+  "registered_credits_list_lbl": "لیست اعتبارات ثبت شده",
+  "select_company_lbl": "شرکت را انتخاب نمائید.",
+  "net_returned_check_balance_lbl": "مانده چک برگشتی خالص",
+  "checks_in_progress_lbl": "چک های در جریان وصول",
+
+  "entekhab_sellers_support_system_lbl": "سامانه پشتیبانی فروشندگان انتخاب",
+  "about_us_body_lbl": "مدیریت ارتباط با فروشندگان انتخاب الکترونیک\n\nمدیریت ارتباط با فروشندگان انتخاب الکترونیک به منظور انجام کلیه امور فروشندگان از قبیل شناسایی و جمع آوری اطلاعات مشتریان بالقوه، فعلی و از دست رفته، طبقه بندی و ثبت اطلاعات مطابق با الگوی شرکت، ایجاد ارتباط مستمر تلفنی، حضوری و سیستمی با مشتریان فعلی ایجاد شده است.\nهمچنین، تلاش در راستای ایجاد وفاداری در فروشندگان، برنامه ریزی و انجام بازدید از محل فعالیت فروشندگان و کنترل ایشان و پیگیری مشکلات نمایندگان مرتبط با جشنواره ها، خدمات، لجستیک، شناسایی و آنالیز رقبا (محصول، قیمت، توزیع وتبلیغات)، پیگیری جهت تحویل محصولات مطابق زمان بندی توافق شده، همکاری و هماهنگی با واحد مالی شرکت در امور حسابداری، تنظیم و ارائه گزارش بازدیدها و جلسات برگزارشده با مشتریان به مدیران فروش مربوطه از دیگر فعالیت های این واحد می باشد.",
+
+  "selection_lbl": "انتخاب",
+  "select_lbl": "را انتخاب کنید",
+
+  "company_lbl": "شرکت",
+  "order_type_lbl": "نوع سفارش",
+  "date_lbl": "تاریخ",
+
+  "apply_filter_lbl": "اعمال فیلتر",
+  "registered_orders_list_lbl": "لیست سفارشات ثبت شده",
+  "clear_date_lbl": "حذف تاریخ",
+  "date_is_not_selected_correctly_lbl": "تاریخ به درستی انتخاب نشده است.",
+
+  "start_date_lbl": "تاریخ شروع",
+  "end_date_lbl": "تاریخ پایان",
+
+  "from_lbl": "از",
+  "to_lbl": "الی",
+
+  "date_from_lbl": "از تاریخ",
+  "date_to_lbl": "تا تاریخ",
+
+  "confirmation_lbl": "تایید",
+  "cancel_lbl": "لغو",
+
+  "order_code_lbl": "کد سفارش",
+  "order_id_lbl": "شماره سفارش",
+  "price_lbl": "مبلغ",
+  "address_lbl": "آدرس",
+  "phone_lbl": "شماره تماس",
+  "details_lbl": "جزئیات",
+
+  "product_code_lbl": "کد محصول",
+  "count_lbl": "تعداد",
+  "unit_price_lbl": "قیمت واحد",
+  "total_price_lbl": "قیمت کل",
+  "product_status_and_logistics_lbl": "وضعیت و لجستیک کالا",
+
+  "product_online_tracking_lbl": "ردیابی آنلاین کالا",
+
+  "order_details_number_lbl": "جزئیات سفارش شماره",
+
+  "store_audit_list_lbl": "لیست ممیزی فروشگاه",
+  "audit_form_lbl": "فرم ممیزی",
+  "property_lbl": "اموالی",
+  "showcase_products_lbl": "محصولات ویترینی",
+  "decor_lbl": "دکور",
+
+  "description_lbl": "توضیحات",
+
+  "festivals_lbl": "جشنواره ها",
+  "show_promotions_lbl": "نمایش پروموشن ها",
+  "serial_lbl": "سریال",
+  "model_code_lbl": "کد مدل",
+
+  "products_search_and_filter_lbl": "جستجو و فیلتر محصولات",
+  "product_family_lbl": "خانواده محصول",
+  "product_group_type_lbl": "نوع گروه محصول",
+  "product_sales_group_type_lbl": "نوع گروه فروش محصول",
+  "brand_lbl": "برند",
+
+  "education_type_selection_lbl": "انتخاب نوع آموزش",
+  "next_step_lbl": "مرحله بعد",
+
+  "register_date_lbl": "تاریخ ثبت"
+}
